@@ -7,7 +7,7 @@ Said junior Rachel Baek: “To be honest, I didn't expect to win. It was the bes
 
 Junior Camille Borja echoed those sentiments, adding, “It was an amazing experience to work with all these different teams from around our region. I was amazed at how every robot’s design was so distinct, even though we were playing the same game. I am looking forward to seeing new game strategies and working with more teams in our final competition."
 
-
+![The team after their win](images/team.jpg)
 Photo: Melissa Rogers
 
 In the initial qualifying rounds, 1418 shot up to first place and remained there for most of the qualifying rounds, up until match 60, which was against three other high-scoring teams: team 1413 “Skrappy’s Zoo” from Skipwith, VA, team 836 “The RoboBees” from Hollywood, MD, and team 1086 “Blue Cheese” from Glenn Allen, VA.
@@ -20,9 +20,8 @@ In the final qualifying match, the team managed to regain first place by a narro
 
 During the alliance selection process, team 1418 chose to ally with team 836 “The RoboBees,” from Hollywood, MD and rookie team 5804 “Torch” from Richmond. These teams were carefully chosen by many of the team members after extensive, careful analysis of each team’s strengths and weaknesses.
 
-
+![Team leaders with the rest of the winning alliance](images/alliance.jpg)
 Photo: Sia Nowrojee
-
 
 Initially, 1418’s robot experienced issues with its climbing arm and defensive measures by enemy alliances. The team was scoring consistently less points than alliances in other matches, and eventual defeat seemed inevitable. However, the team eventually got the climbing arm to work more consistently, which allowed the alliance to score significantly higher.
 
@@ -40,7 +39,7 @@ In addition to taking first place, team 1418 also took home a second Innovation 
 
 “The championship finals were an amazing exhibition of design and strategy. Our robot design proved to be durable, consistent, and always a work in progress,” said mentor John Ballou in an email to FCCPS faculty.
 
-
+![A GIF of 1418's robot](images/robot.gif)
 Photo: Edwin Reinke
 
 You can keep up with team 1418 on [the team’s Facebook](https://gmhslasso.org/2736/news/1418-scores-major-tri-state-victory/).
